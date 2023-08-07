@@ -3,4 +3,4 @@
 When you start a new text or video chat, the script will automatically agree to the age verification and terms of service window.
 
 GitHub Link: https://github.com/Lozarth/Omegle-TOS-Auto-Confirm
-GreasyFork Link: 
+GreasyFork Link: https://greasyfork.org/en/scripts/472600-omegle-tos-auto-confim
