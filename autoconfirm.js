@@ -7,6 +7,7 @@
 // @match        https://www.omegle.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=omegle.com
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
